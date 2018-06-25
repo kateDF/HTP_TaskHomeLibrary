@@ -1,0 +1,9 @@
+Article/1/2/Carrots/Maggy Wetest/2018/English
+Article/2/2/For meat lovers/Andy Setest/2018/English
+Article/3/1/Life without pills/Garry Atest/2018/English
+Article/4/1/ZOJ/Marty Btest/2018/English
+ScientificArticle/5/3/Teleportation - is it possible?/Sam Dtest/2018/English/Teleportation/science fiction
+ScientificArticle/6/3/New people/Martin Letest/2018/English/People/science fiction
+Article/7/35/Top secrets/Mindi M/2018/English
+Article/8/35/Royal wedding/Maria Htest/2018/English
+Article/9/35/New stories from Hollywood/Maria Htest/2018/English

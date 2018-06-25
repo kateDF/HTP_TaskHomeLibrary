@@ -1,0 +1,37 @@
+Journal/print/1/Health life/50/Monthly/Health/Medicine/A4
+Journal/print/2/Real Food/40/Monthly/Food/Social life/A4
+ScienceMagazine/print/3/New Tech/35/Weekly/High tech/Technology/A5/15/Internet/PublicHouse
+ScienceMagazine/print/4/New world/50/Monthly/High tech/Technology/A5/13/Internet/PublicFactoryInk
+Comics/print/5/Deadpool/30/Three months/super hero/fantastic/A4/Fabian Nicieza/guest from the future/Marvel/Deadpool
+Yearbook/print/6/Statistical Yearbook of the Republic of Belarus/626/annual/statistic/analysis/book/2017/economic and social life
+Almanac/print/7/World almanac/688/world/1008/Robbie Biddle
+ChildrenBook/print/8/Magic rabbit/68/fairy tale/story about magic rabbit/KidsBookPublishing/Mary Clark
+CookBook/print/9/Recipes by Ducan/106/100/Healthy food/proteins and vegetables/Paul Ducan
+CookBook/print/10/Soup/98/58/Common food/no information/Maggy Detest
+Encyclopedia/print/11/High Tech Park/500/Technology/People with technical education/1/Math Pot, Andry Carter, Li Mun Hi
+Encyclopedia/print/12/High Tech Park/525/Technology/People with technical education/2/Math Pot, Andry Carter, Li Mun Hi, Andy Lout
+Encyclopedia/print/13/Animals/333/Nature/children/1/Laura Dart, Mark Lead
+Encyclopedia/print/14/Animals/341/Nature/children/2/Laura Dart, Mark Lead
+Encyclopedia/print/15/Animals/325/Nature/children/3/Laura Dart, Mark Lead
+TextBook/print/16/Java/456/Programming/Robert Strange
+TextBook/print/17/C++/667/Programming/Dany Mitchel
+TextBook/ebook/18/C++/667/Programming/Dany Mitchel/775.3/pdf/Dany_Mitchel_C_Programming
+CookBook/ebook/19/Soup/98/58/Common food/no information/Maggy Detest/345.25/djvu/Maggy_Detest_Soup
+Instructions/print/20/Instructions of data handling/20/Data handling/NXP
+Instructions/ebook/21/Instructions of data handling/20/Data handling/NXP/58.80/doc/Data_handling_Instructions
+Comics/ebook/22/The Trigan Empire 6/33/Three months/Earth-like ancient civilizations/science fiction/A4/Mike Butterworth/story of an alien culture/Fleetway/Trigo/780.8/pdf/TriganEmpire6
+LiteraryCollection/print/23/Twentieth Century Literary Theory/450/Cambridge/Literary Theory/essay/Karl Sitest
+LiteraryCollection/ebook/24/The size of thoughts/505/Random House/Essays and other lumber/essays/Nicholson Baker/668.0/pdf/TheSizeOfThoughts_Baker
+Manuscript/print/25/Epistula of Paul/15/VI century/Egypt/handwritten/Apostle Paul
+ReferenceWork/ebook/26/Reference Work for Theologiacal research 3rd edition/264/bibliography/Selective Bibliographical Guide/English/Robert J. Kepple, John J. Muether/586.8/pdf/Theologiacal_research
+ToyBook/print/27/Easy toy book/187/Marry Clark/Toy House/Red lion/coloring pages and puzzles/A4
+Album/print/28/New York famous people/78/portraits/Nill Getest/73
+TaxReturn/ebook/29/Tax Return - Rayan Mitchel 2014/7/USA/Rayan Mitchel/BIR60/2014/56.6/pdf/TaxReturnMitchel2014
+Newspaper/print/30/Daily News by 19.03.2018/24/Mike Dell/daily/true
+Newspaper/ebook/31/Technology evening - march 2018/18/Carry Os/monthly/true/77.7/pdf/TechnologyEveningMarch2018
+Newspaper/ebook/32/Technology evening - april 2018/20/Carry Os/monthly/true/80.7/pdf/TechnologyEveningApril2018
+Reproduction/print/33/Night forest/Valeri Gosling/watercolor/50x80
+Brochure/ebook/34/Play-store new action/2/A5/play-store users/15.0/jpg/PlayStore
+Journal/print/35/EverNever/50/Monthly/Famous people/Social life/A4
+CookBook/print/36/Recipes of desserts/127/100/Desserts/proteins and vegetables/Paul Ducan
+Book/ebook/37/Real life with healthy food/225/Paul Ducan, Amy Ducan/356.5/pdf/RealLifeDucan
